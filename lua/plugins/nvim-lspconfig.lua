@@ -208,6 +208,8 @@ return {
       angularls = {},
       ts_ls = {},
 
+      cmake = {},
+
       lua_ls = {
         -- cmd = { ... },
         -- filetypes = { ... },
